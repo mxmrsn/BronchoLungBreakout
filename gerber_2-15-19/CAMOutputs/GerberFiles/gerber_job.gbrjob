@@ -1,0 +1,13 @@
+G04 Gerber job file.*
+%TF.FileFunction,JobInfo*%
+%TF.GenerationSoftware,Autodesk,EAGLE,9.1.1*%
+%TF.CreationDate,2019-02-15T21:44:52Z*%
+%TF.Part,Single*%
+%MOMM*%
+%TJ.B_Owner,Max Emerson <maxwell.emerson@vanderbilt.edu>*%
+%TJ.B_ID,broncho_lung_breakout*%
+%TJ.B_LayerNum,4*%
+%TJ.B_Thickness,1.990000*%
+%TJ.B_Size_X,100.000000*%
+%TJ.B_Size_Y,100.000000*%
+M02*
